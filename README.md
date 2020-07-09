@@ -1,4 +1,4 @@
-# Dictionary
+# My Business Card App
 My first simple flutter project used as a challenge for The App Brewery. This project mainly worked on UI customization.
 
 Here are the main things that i learned to use in this project:
